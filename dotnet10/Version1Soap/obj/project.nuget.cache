@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TBzTX+vX2s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MANUEL PEREZ LOPEZ\\Downloads\\PRODUCTO DOS\\dotnet10\\Version1Soap\\Version1Soap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MANUEL PEREZ LOPEZ\\.nuget\\packages\\soapcore\\1.2.1.14\\soapcore.1.2.1.14.nupkg.sha512",
+    "C:\\Users\\MANUEL PEREZ LOPEZ\\.nuget\\packages\\system.codedom\\9.0.2\\system.codedom.9.0.2.nupkg.sha512",
+    "C:\\Users\\MANUEL PEREZ LOPEZ\\.nuget\\packages\\system.servicemodel.http\\10.0.652802\\system.servicemodel.http.10.0.652802.nupkg.sha512",
+    "C:\\Users\\MANUEL PEREZ LOPEZ\\.nuget\\packages\\system.servicemodel.primitives\\10.0.652802\\system.servicemodel.primitives.10.0.652802.nupkg.sha512"
+  ],
+  "logs": []
+}
